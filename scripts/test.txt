@@ -1,0 +1,11 @@
+C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/00-createBigCitiesDataBase.sql
+
+
+C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/01-createCitiesTable.sql
+
+
+C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/02-seedCitiesTable.sql
+
+
+C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/data/ciudades.csv
+
