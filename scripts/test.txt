@@ -9,3 +9,12 @@ C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/02-seedCi
 
 C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/data/ciudades.csv
 
+C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/03-selectNamePopulation.sql
+
+C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/04-selectMin.sql
+
+C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/05-selectOrder.sql
+
+C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/06-selectWhere.sql
+
+
