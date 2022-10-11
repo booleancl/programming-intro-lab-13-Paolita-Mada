@@ -1,20 +1,9 @@
 C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/00-createBigCitiesDataBase.sql
+C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/13-seedWritersTable.sql
+C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/12-createWritersTable.sql
 
 
-C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/01-createCitiesTable.sql
 
 
-C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/02-seedCitiesTable.sql
-
-
-C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/data/ciudades.csv
-
-C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/03-selectNamePopulation.sql
-
-C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/04-selectMin.sql
-
-C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/05-selectOrder.sql
-
-C:/Users/swanm/intro_dev/programming-intro-lab-13-Paolita-Mada/scripts/06-selectWhere.sql
 
 
